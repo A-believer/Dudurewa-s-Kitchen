@@ -1,8 +1,11 @@
 import React from 'react'
+import OrderSection from './components/OrderSection'
 
 function App() {
   return (
-    <div>App</div>
+    <main className=' bg-white'>
+  <OrderSection/>
+    </main>
   )
 }
 

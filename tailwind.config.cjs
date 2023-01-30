@@ -13,6 +13,13 @@ module.exports = {
       fontFamily: {
         epilogue: ['Epilogue', 'sans-serif']
       },
+      backgroundImage: {
+        "bIa": "url('./assets/bgImg1.jpg')",
+        "bIb": "url('./assets/bgImg2.jpg')",
+        "bIc": "url('./assets/bgImg3.jpg')",
+        "bId": "url('./assets/bgImg4.jpg')",
+        "bIe": "url('./assets/newBg.png')",
+      }
     },
   },
   plugins: [],
